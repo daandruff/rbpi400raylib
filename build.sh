@@ -1,0 +1,1 @@
+gcc main.c -o game -Wall -I include/ -L lib/ -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
